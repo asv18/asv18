@@ -1,4 +1,4 @@
-### Hi there 👋. I'm just a guy with some shrimp.
+### Hi there 👋. I'm just a guy with some shrimps.
 
 ![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE3MWZ5a2kzcmFkcmV0b2J4Mmd5NzJpcG8wZXJnbmZnYmJjZXZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsYpn4XcpqoMrZHu4O/giphy-downsized-large.gif)
 ![hippo](https://media.giphy.com/media/OIhVCLkwikjIBbkDv9/giphy-downsized-large.gif)
