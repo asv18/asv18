@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋. I'm just a developer with some shrimps.</h1>
+<div align="center">
+  <img src="https://github.com/AarnavSrivastava/AarnavSrivastava/blob/main/github-header-image.png?raw=true" />
+</div>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE3MWZ5a2kzcmFkcmV0b2J4Mmd5NzJpcG8wZXJnbmZnYmJjZXZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsYpn4XcpqoMrZHu4O/giphy-downsized-large.gif" />
   <img src="https://media.giphy.com/media/OIhVCLkwikjIBbkDv9/giphy-downsized-large.gif" />
