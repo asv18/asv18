@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://github.com/AarnavSrivastava/AarnavSrivastava/assets/70161949/77226f41-efc9-4e58-af75-2fb671e301d2" />
 </div>
+<br/>
+<hr/>
+<br/>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE3MWZ5a2kzcmFkcmV0b2J4Mmd5NzJpcG8wZXJnbmZnYmJjZXZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsYpn4XcpqoMrZHu4O/giphy-downsized-large.gif" />
   <img src="https://media.giphy.com/media/OIhVCLkwikjIBbkDv9/giphy-downsized-large.gif" />
@@ -10,10 +13,10 @@
 <br/>
 <h2 align="center">Some of my GitHub stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarnavSrivastava&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AarnavSrivastava&show_icons=true&theme=synthwave" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarnavSrivastava&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarnavSrivastava&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=synthwave" />
 </p>
 <br/>
 <br/>
