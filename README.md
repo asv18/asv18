@@ -1,18 +1,24 @@
-### Hi there 👋. I'm just a guy with some shrimps.
-
-![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE3MWZ5a2kzcmFkcmV0b2J4Mmd5NzJpcG8wZXJnbmZnYmJjZXZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsYpn4XcpqoMrZHu4O/giphy-downsized-large.gif)
-![hippo](https://media.giphy.com/media/OIhVCLkwikjIBbkDv9/giphy-downsized-large.gif)
-![hippo](https://media.giphy.com/media/QllYv2oqc6cyv9uWsf/giphy-downsized-large.gif)
-
-
-### Some of my stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AarnavSrivastava&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### What I'm listening to right now
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5e711rw8smc4ugd2gtxc4m1e9&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<h1 align="center">Hi there 👋. I'm just a developer with some shrimps.</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE3MWZ5a2kzcmFkcmV0b2J4Mmd5NzJpcG8wZXJnbmZnYmJjZXZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsYpn4XcpqoMrZHu4O/giphy-downsized-large.gif" />
+  <img src="https://media.giphy.com/media/OIhVCLkwikjIBbkDv9/giphy-downsized-large.gif" />
+  <img src="https://media.giphy.com/media/QllYv2oqc6cyv9uWsf/giphy-downsized-large.gif" />
+</p>
+<br/>
+<br/>
+<h2 align="center">Some of my GitHub stats</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AarnavSrivastava&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarnavSrivastava&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=tokyonight" />
+</p>
+<br/>
+<br/>
+<h2 align="center">What I'm listening to right now</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=5e711rw8smc4ugd2gtxc4m1e9&cover_image=true&theme=default&background_color=121212&interchange=true&bar_color_cover=true" />
+</p>
 
 <!--
 **AarnavSrivastava/AarnavSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
