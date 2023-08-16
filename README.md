@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AarnavSrivastava/AarnavSrivastava/blob/main/github-header-image.png?raw=true" />
+  <img src="https://github.com/AarnavSrivastava/AarnavSrivastava/assets/70161949/77226f41-efc9-4e58-af75-2fb671e301d2" />
 </div>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE3MWZ5a2kzcmFkcmV0b2J4Mmd5NzJpcG8wZXJnbmZnYmJjZXZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsYpn4XcpqoMrZHu4O/giphy-downsized-large.gif" />
