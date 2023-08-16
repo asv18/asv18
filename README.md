@@ -13,10 +13,10 @@
 <br/>
 <h2 align="center">Some of my GitHub stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarnavSrivastava&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AarnavSrivastava&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarnavSrivastava&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarnavSrivastava&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=radical" />
 </p>
 <br/>
 <br/>
