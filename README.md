@@ -1,6 +1,17 @@
 <div align="center">
   <img src="./github-header.png" />
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aarnav-srivastava-5aba35240/" target="_blank" rel="noopener noreferrer">
+    <img height="50"src="https://img.icons8.com/color/452/linkedin.png">
+  </a>
+  <a href="https://www.instagram.com/therealbarney18/" target="_blank" rel="noopener noreferrer">
+    <img height="50"src="https://img.icons8.com/?size=512&id=32323&format=png">
+  </a>
+  <a href="mailto:aarnav.srivastava18@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img height="50"src="https://img.icons8.com/color/452/gmail.png">
+  </a>
+</div>
 <br/>
 <hr/>
 <br/>
@@ -12,12 +23,23 @@
 <br/>
 <br/>
 <h2 align="center">Some of my GitHub stats</h1>
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AarnavSrivastava&show_icons=true&theme=radical" />
-</p>
-<p align="center">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarnavSrivastava&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=radical" />
-</p>
+</div>
+<div align="center">
+  <img height="50"src="https://img.icons8.com/color/452/dart.png">
+  <img height="50"src="https://img.icons8.com/color/452/typescript.png">
+  <img height="50"src="https://img.icons8.com/color/452/javascript.png">
+  <img height="50"src="https://img.icons8.com/?size=512&id=13679&format=png">
+  <img height="50"src="https://img.icons8.com/color/452/kotlin.png">
+  <img height="50"src="https://img.icons8.com/color/452/python.png">
+  <img height="50"src="https://img.icons8.com/?size=512&id=55251&format=png">
+  <img height="50"src="https://img.icons8.com/color/452/graphql.png">
+  <img height="50"src="https://img.icons8.com/?size=512&id=38561&format=png">
+</div>
 <br/>
 <br/>
 <h2 align="center">What I'm listening to right now</h2>
