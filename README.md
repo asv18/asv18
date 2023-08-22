@@ -42,7 +42,7 @@
 </div>
 <br/>
 <br/>
-<h2 align="center">What I'm listening to right now</h2>
+<!-- <h2 align="center">What I'm listening to right now</h2> -->
 <!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=5e711rw8smc4ugd2gtxc4m1e9&cover_image=true&theme=default&background_color=121212&interchange=true&bar_color_cover=true" />
 </p> -->
