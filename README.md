@@ -33,8 +33,7 @@
   <img height="50"src="https://img.icons8.com/color/452/dart.png">
   <img height="50"src="https://img.icons8.com/color/452/typescript.png">
   <img height="50"src="https://img.icons8.com/color/452/javascript.png">
-  <img height="50"src="https://img.icons8.com/color/452/rust.png">
-  <img height="50"src="https://img.icons8.com/color/452/cpp.png">
+  <img height="50"src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000">
   <img height="50"src="https://img.icons8.com/?size=512&id=13679&format=png">
   <img height="50"src="https://img.icons8.com/color/452/kotlin.png">
   <img height="50"src="https://img.icons8.com/color/452/python.png">
