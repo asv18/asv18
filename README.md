@@ -44,7 +44,7 @@
 <br/>
 <br/>
 <div align="center">
-  <img height="200" src="https://projecteuler.net/profile/barney18.png" />
+  <img height="150" src="https://projecteuler.net/profile/barney18.png" />
 </div>
 <!-- <h2 align="center">What I'm listening to right now</h2> -->
 <!-- <p align="center">
