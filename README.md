@@ -2,7 +2,7 @@
   <img src="./github-header.png" />
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/aarnav-srivastava-5aba35240/" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://www.linkedin.com/in/aarnav-srivastava-5aba35240/" target="_blank" rel="noopener noreferrer">
     <img height="10"src="https://img.icons8.com/color/452/linkedin.png">
   </a>
   <a href="https://www.instagram.com/therealbarney18/" target="_blank" rel="noopener noreferrer">
@@ -10,7 +10,7 @@
   </a>
   <a href="mailto:aarnav.srivastava18@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="10"src="https://img.icons8.com/color/452/gmail.png">
-  </a>
+  </a> -->
 </div>
 <br/>
 <hr/>
@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asv18&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=radical" />
 </div>
 <div align="center">
-  <img height="50"src="https://img.icons8.com/color/452/dart.png">
+<!--   <img height="50"src="https://img.icons8.com/color/452/dart.png">
   <img height="50"src="https://img.icons8.com/color/452/typescript.png">
   <img height="50"src="https://img.icons8.com/color/452/javascript.png">
   <img height="50"src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000">
@@ -39,7 +39,7 @@
   <img height="50"src="https://img.icons8.com/color/452/python.png">
   <img height="50"src="https://img.icons8.com/?size=512&id=55251&format=png">
   <img height="50"src="https://img.icons8.com/color/452/graphql.png">
-  <img height="50"src="https://img.icons8.com/?size=512&id=38561&format=png">
+  <img height="50"src="https://img.icons8.com/?size=512&id=38561&format=png"> -->
 </div>
 <br/>
 <br/>
