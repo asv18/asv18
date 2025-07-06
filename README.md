@@ -3,13 +3,13 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/aarnav-srivastava-5aba35240/" target="_blank" rel="noopener noreferrer">
-    <img height="50"src="https://img.icons8.com/color/452/linkedin.png">
+    <img height="10"src="https://img.icons8.com/color/452/linkedin.png">
   </a>
   <a href="https://www.instagram.com/therealbarney18/" target="_blank" rel="noopener noreferrer">
-    <img height="50"src="https://img.icons8.com/?size=512&id=32323&format=png">
+    <img height="10"src="https://img.icons8.com/?size=512&id=32323&format=png">
   </a>
   <a href="mailto:aarnav.srivastava18@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img height="50"src="https://img.icons8.com/color/452/gmail.png">
+    <img height="10"src="https://img.icons8.com/color/452/gmail.png">
   </a>
 </div>
 <br/>
