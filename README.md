@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=asv18&show_icons=true&theme=radical" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asv18&hide=jupyter%20notebook&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asv18&hide=jupyter%20notebook,makefile&layout=donut&&exclude_repo=SpaceGameStarFoxClone,MPHWebsite-NextBuild,NGOWork&theme=radical" />
 </div>
 <div align="center">
 <!--   <img height="50"src="https://img.icons8.com/color/452/dart.png">
